@@ -5,7 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 Objective:
-Create a Flutter application based on the provided mockup to demonstrate your Flutter development skills. This assignment will help us assess your coding abilities, creativity, and attention to detail.
+Create a Flutter application based on the mockup to demonstrate the Flutter development skills.
 
 A few resources to get you started if this is your first Flutter project:
 
